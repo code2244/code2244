@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo M Hernandez Martinez</h1>
+<h1 align="center">Hi 👋, I'm Ricardo M Hernandez</h1>
 <h3 align="center">A Software Engineer at 100Devs</h3>
 
 <p align="left"> <a href="https://twitter.com/code2244" target="blank"><img src="https://img.shields.io/twitter/follow/code2244?logo=twitter&style=for-the-badge" alt="code2244" /></a> </p>
