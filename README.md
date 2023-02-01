@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rickdev.netlify.app/](https://rickdev.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, MongoDB, TypeScript**
+- 💬 Ask me about **JavaScript, React, TypeScript**
 
 - 📫 How to reach me **rickhdev@gmail.com**
 
