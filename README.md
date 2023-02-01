@@ -7,8 +7,6 @@
 
 - Hi, I'm currently collaborating in [Together app](https://github.com/Caleb-Cohen/Together)
 
-- 🌱 I’m currently learning **TypeSctrip and Next.js**
-
 - 👨‍💻 All of my projects are available at [https://rickdev.netlify.app/](https://rickdev.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, MongoDB, TypeScript**
