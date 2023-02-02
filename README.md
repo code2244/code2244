@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rickhdev@gmail.com**
 
-- ⚡ Fun fact **I have 7 cats🐈. I'm a photographer, bartender and I'm interested in Web Development and CyberSecurity**
+- ⚡ Fun fact **I have 7 cats🐈, I'm a photographer, and I'm interested in Web Development and CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
