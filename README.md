@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rickdev.netlify.app/](https://rickdev.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, TypeScript**
+- 💬 Ask me about **JavaScript, React, Python**
 
 - 📫 How to reach me **rickhdev@gmail.com**
 
