@@ -4,8 +4,6 @@
 
 - Hi, I'm currently collaborating in [Together app](https://github.com/Caleb-Cohen/Together)
 
-- 👨‍💻 All of my projects are available at [https://rickdev.netlify.app/](https://rickdev.netlify.app/)
-
 - 💬 Ask me about **JavaScript, TypeScript, React, Python**
 
 - 📫 How to reach me **rickhdev@gmail.com**
