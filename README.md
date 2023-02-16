@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo M Hernandez Martinez</h1>
+<h1 align="center">Hi 👋, I'm Ricardo M Hernandez</h1>
 <h3 align="center">A passionate Software Engineer/Full Stack Web Developer</h3>
 
 
