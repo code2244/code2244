@@ -4,7 +4,7 @@
 
 - Hi, I'm currently collaborating in [Together app](https://github.com/Caleb-Cohen/Together)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Python**
+- 💬 Ask me about **JavaScript, React, Python**
 
 - 📫 How to reach me **rickhdev@gmail.com**
 
