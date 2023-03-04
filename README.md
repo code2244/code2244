@@ -31,12 +31,4 @@
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-
- 
-  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2244&show_icons=true&locale=en&layout=compact" alt="code2244" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code2244&show_icons=true&locale=en" alt="code2244" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2244&" alt="code2244" /></p>
+</p>
