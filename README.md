@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo M. Hernandez</h1>
 <h3 align="center">A passionate Software Engineer/Full Stack Web Developer</h3>
 
-
-- Hi, I'm currently collaborating in [Together app](https://github.com/Caleb-Cohen/Together)
-
 - 💬 Ask me about **JavaScript, React, Python**
 
 - 📫 How to reach me **rickhdev@gmail.com**
