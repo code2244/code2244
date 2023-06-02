@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Software Engineer/Full Stack Web Developer</h3>
 
 - 💬 Ask me about **JavaScript, React, Python**
-
-- 📫 How to reach me **rickhdev@gmail.com**
-
 - ⚡ Fun fact **I have 7 cats🐈, I'm a photographer, love rollerblading and I'm interested in Web Development and CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
