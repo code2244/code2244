@@ -7,8 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/constantric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="constantric" height="30" width="40" /></a>
-   <img src="https://tryhackme-badges.s3.amazonaws.com/rickhdev.png" alt="TryHackMe">
 </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rickhdev.png" alt="TryHackMe">
 
 <h3 align="left">Languages and Tools:</h3>
 
