@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ricardo M. Hernandez</h1>
-<h3 align="center">A passionate Software Engineer/Full Stack Web Developer</h3>
 
 - 💬 Ask me about **JavaScript, React, Python**
 - ⚡ Fun fact **I have 7 cats🐈, I'm a photographer, love rollerblading and I'm interested in Web Development and CyberSecurity**
