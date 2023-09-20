@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo M. Hernandez</h1>
 
 - 💬 Ask me about **JavaScript, React, Python**
-- ⚡ Fun fact **I have 7 cats🐈, I'm a photographer, love rollerblading and I'm interested in Web Development and CyberSecurity**
+- ⚡ Fun fact **I love cats🐈, I'm a photographer, love rollerblading and I'm interested in Web Development and CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
