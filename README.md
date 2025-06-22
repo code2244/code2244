@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 - 💬 Ask me about **JavaScript, Python**
-- ⚡ Fun fact **I love cats🐈, I'm a photographer, love rollerblading and I'm interested in web development, hardware hacking and security testing.**
+- ⚡ Fun fact **I love cats🐈, I'm a photographer, and I'm interested in web development, hardware hacking and security testing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
